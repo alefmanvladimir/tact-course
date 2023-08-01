@@ -1,3 +1,30 @@
 [submodule "lesson1"]
 	path = lesson1
 	url = https://github.com/alefmanvladimir/lesson1
+[submodule "lesson2"]
+	path = lesson2
+	url = https://github.com/alefmanvladimir/lesson2.git
+[submodule "lesson3"]
+	path = lesson3
+	url = https://github.com/alefmanvladimir/lesson3.git
+[submodule "lesson4"]
+	path = lesson4
+	url = https://github.com/alefmanvladimir/lesson4.git
+[submodule "lesson5"]
+	path = lesson5
+	url = https://github.com/alefmanvladimir/lesson5.git
+[submodule "lesson6"]
+	path = lesson6
+	url = https://github.com/alefmanvladimir/lesson6.git
+[submodule "lesson7"]
+	path = lesson7
+	url = https://github.com/alefmanvladimir/lesson7.git
+[submodule "lesson8"]
+	path = lesson8
+	url = https://github.com/alefmanvladimir/lesson8.git
+[submodule "lesson9"]
+	path = lesson9
+	url = https://github.com/alefmanvladimir/lesson9.git
+[submodule "lesson10"]
+	path = lesson10
+	url = https://github.com/alefmanvladimir/lesson10.git
